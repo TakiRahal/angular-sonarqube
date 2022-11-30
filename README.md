@@ -69,3 +69,7 @@ Create a file called sonar-project.properties in your Angular root directory and
 ### Integrate Karma code coverage with SonarQube Server
 
     Run script sonar
+    
+## DEMO 
+    
+[![IMAGE ALT TEXT HERE](https://github.com/TakiRahal/elastic-apm/blob/main/server-apm/demo.png)](https://youtu.be/38aJ0JMolgU)
