@@ -72,4 +72,4 @@ Create a file called sonar-project.properties in your Angular root directory and
     
 ## DEMO 
     
-[![IMAGE ALT TEXT HERE](https://github.com/TakiRahal/elastic-apm/blob/main/server-apm/demo.png)](https://youtu.be/38aJ0JMolgU)
+[![IMAGE ALT TEXT HERE](https://github.com/TakiRahal/angular-sonarqube/blob/main/src/assets/demo.png)](https://youtu.be/38aJ0JMolgU)
